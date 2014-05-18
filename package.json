@@ -1,6 +1,6 @@
 {
   "name": "trailing-slashes",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Trailing slash redirect thingy",
   "main": "trailing-slashes.js",
   "scripts": {
