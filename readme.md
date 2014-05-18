@@ -1,4 +1,4 @@
-# trailing-slashes
+# trailing-slashes[![build status](https://secure.travis-ci.org/kesla/trailing-slashes.png)](http://travis-ci.org/kesla/trailing-slashes)
 
 Trailing slash redirect thingy
 
