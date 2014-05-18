@@ -1,0 +1,26 @@
+{
+  "name": "trailing-slashes",
+  "version": "0.0.0",
+  "description": "Trailing slash redirect thingy",
+  "main": "trailing-slashes.js",
+  "scripts": {
+    "test": "tap test/traling-slashes.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kesla/trailing-slashes.git"
+  },
+  "keywords": [
+    "http",
+    "tralingslashes"
+  ],
+  "author": "David Björklund <david.bjorklund@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kesla/trailing-slashes/issues"
+  },
+  "homepage": "https://github.com/kesla/trailing-slashes",
+  "devDependencies": {
+    "tape": "^2.13.1"
+  }
+}
